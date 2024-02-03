@@ -5,7 +5,9 @@ int main()
 {
 	int a = 42u;      // ÎŞ·ûºÅĞÍ
 	float b = 42.3f;  // floatĞÍ
+
 	cout << a << " " << b << endl;
+
 	return 0;
 
 }

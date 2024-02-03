@@ -6,6 +6,7 @@ int main()
 	int a = 10;
 	int *p = &a;
 	cout << *p << endl;
+
 	*p = 20;
 	cout << a << endl;
 	cout << *p << endl;

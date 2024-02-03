@@ -7,6 +7,7 @@ int main()
 	int b = { 0 };
 	int c{ 0 };
 	int d(0);
+
 	cout << a << " " << b << " " << c << " " << d << endl;
 
 	return 0;

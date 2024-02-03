@@ -7,9 +7,12 @@ int main()
 {
 	constexpr int *p = &i;
 	cout << *p << endl;
+
 	//p = &j;        // ´íÎó
+
 	*p = 40;
 	cout << *p << endl;
+
 	return 0;
 }
 
